@@ -4,3 +4,4 @@ Interests: Large data sets, biogeochemical oceanographic modeling and ecological
 PROGRAMMING BACKGROUND
 =================================================
 - Experience with Java, C/C++, HTML/CSS
+- Favorite project so far:  File parsing project in CS162
