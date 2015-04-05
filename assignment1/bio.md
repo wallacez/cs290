@@ -6,3 +6,8 @@ PROGRAMMING BACKGROUND
 =================================================
 - Experience with Java, C/C++, HTML/CSS
 - Favorite project so far:  File parsing project in CS162
+
+
+ADDITIONAL INFO
+==================================================
+I am excited for a fun term learning web development :)
