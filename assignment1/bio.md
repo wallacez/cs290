@@ -6,3 +6,8 @@ PROGRAMMING BACKGROUND
 =================================================
 - Experience with Java, C/C++, HTML/CSS
 - Favorite project so far:  File parsing project in CS162
+
+
+ALTERNATE BIO
+++++++++++++++++++++++++++++++++++++++++++++++++++
+I have a twin counterpart in the Andromeda Galaxy
