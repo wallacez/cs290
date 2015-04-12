@@ -1,1 +1,92 @@
+/*Table styling 
+--------------------------------------------------------------*/
+table {
+	border: 2px solid black;
+	width: 25%;
+}
+th, tr, td {
+	border-style: groove;
+	text-align: center;
+}
+/*even rows = light blue*/
+tr:nth-child(2) {
+	background-color: #ADD8E6;
+}
+tr:nth-child(4) {
+	background-color: #ADD8E6;
+}
+/* Odd rows = light green */
+tr:first-child {
+	background-color: #98fb98;
+}
+tr:nth-child(3) {
+	background-color: #98fb98;
+}
+tr:last-child {
+	background-color: #98fb98;
+}
+th {
+	background-color: white;
+}
 
+/*italicizing first column*/
+td:first-child {
+	font-style: italic; 
+}
+/*colorizing 1st and 3rd non-header columns */
+td:nth-child(2) {
+	color: red;
+}
+td:nth-child(4) {
+	color: blue;
+}
+/*--------------------------------------------------------------*/
+
+
+
+
+
+/*dl list styling
+--------------------------------------------------------------*/
+dt:hover + dd  {
+	background-color: purple;
+}
+/*--------------------------------------------------------------*/
+
+
+
+
+
+/*div styling
+--------------------------------------------------------------*/
+/*Outer  div*/
+.outercontent {
+	background-color: pink;
+	width: 75%;
+	height: auto;
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+/*Inner div*/
+.outercontent div {
+	background-color: #ADD8E6;
+	height: auto;
+	width: 75%;
+	text-align: center;
+	margin: auto;
+	vertical-align: center;
+}
+/*--------------------------------------------------------------*/
+
+
+
+
+
+/*Image and paragraphs styling
+--------------------------------------------------------------*/
+img {
+	height: 100px;
+	width: 125px;
+	float: left;
+}
+/*--------------------------------------------------------------*/
