@@ -1,0 +1,27 @@
+Start: Tue, 21 April 2015 12:12:00 -0800
+End: Tue, 21 April 2015 01:30:00 -0800
+Tasks: Cloned assignment 3 repository, edited 'functions.js'
+
+Start: Tue, 21 April 2015 17:10:00 -0800
+End: Tue, 21 April 2015 19:30:00 -0800
+Tasks: worked on 'functions.js'
+
+Start: Thurs, 22 April 2015 11:30:00 -0800
+End: Thurs, 22 April 2015 12:22:00 -0800
+Tasks: finished 'functions.js'
+
+Start: Thurs, 22 April 2015 12:45:00 -0800
+End: Thurs, 22 April 2015 13:03:00 -0800
+Tasks: finished 'variables.js'
+
+Start: Thurs, 22 April 2015 18:34:00 -0800
+End: Thurs, 22 April 2015 19:45:00 -0800
+Tasks: Wrote most of 'objects.js' 
+
+Start: Fri, 23 April 2015 14:00:00 -0800
+End: Fri, 23 April 2015 14:49:00 -0800
+Tasks: Finished 'objects.js' and assignment 3 part 1
+
+Start: Fri, 23 April 2015 15:30:00 -0800
+End: Fri, 23 April 2015 16:50:00 -0800
+Tasks: Began Assignment 3 part 2
