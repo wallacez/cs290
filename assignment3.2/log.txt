@@ -24,4 +24,4 @@ Tasks: Finished 'objects.js' and assignment 3 part 1
 
 Start: Fri, 23 April 2015 15:30:00 -0800
 End: Fri, 23 April 2015 16:50:00 -0800
-Tasks: Began Assignment 3 part 2
+Tasks: Worked on setting up the GET forms in gists.html
