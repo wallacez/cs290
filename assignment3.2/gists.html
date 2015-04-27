@@ -3,40 +3,23 @@
   <head>
     <title>Gists</title>
     <meta charset="UTF-8">
-    <script src="ajax.js"></script>
+    <script src="getGists.js"></script>
   </head>
- <!-- <body>
-    <section>
-      <form action="https://api.github.com/gists/public" method="get">
-        <input type="textbox" name="fetch">  Fetch Gists<br>
-      </form>
-    </section> -->
-    
-    <body>
-  <section>
-  <h1>Request Gist Pages</h1>
-  <div>
-    <label>How many pages 1-5 </label>
-	
-	  <select id = "pages">
-	    <option value = "1">1</option>
-	    <option value = "2">2</option>
-	    <option value = "3">3</option>
-	    <option value = "4">4</option>
-	    <option value = "5">5</option>
-	  </select>
-	<input type="button" value="show pages" onclick="savePage()">
-	<form action="">
-      <input type="checkbox" name="lang1" value="JSON">JSON<br>
-      <input type="checkbox" name="lang2" value="Python">Python<br>
-	  <input type="checkbox" name="lang3" value="JSON">JavaScript<br>
-      <input type="checkbox" name="lang4" value="Python">SQL
-	  <input type="button" value="Filter" onclick="parser()">
-    </form>
-  </div>
-  </section>
-   <div id='out'></div>
-</body>
+  <body>
+    <form>
+      Enter the number of pages to display (1-5):<br>
+      <input type='select' name='pages'><br>
+      <input type='button' name='search' onclick='getGists()' value='Search'>
+	  </form>
+    <!--Displaying the gists-->
+	  <section>
+	    <div id="gist-list"></div>
+	  </section>
+    <!--Displaying favorited gists-->
+	  <section>
+	    <div id="display"></d>
+		<h2>Favorites:</h2>
+	  </section>
+	</body>
 </html>
-  <!--</body>
-</html>-->
+

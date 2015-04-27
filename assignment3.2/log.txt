@@ -6,22 +6,35 @@ Start: Tue, 21 April 2015 17:10:00 -0800
 End: Tue, 21 April 2015 19:30:00 -0800
 Tasks: worked on 'functions.js'
 
-Start: Thurs, 22 April 2015 11:30:00 -0800
-End: Thurs, 22 April 2015 12:22:00 -0800
+Start: Thurs, 23 April 2015 11:30:00 -0800
+End: Thurs, 23 April 2015 12:22:00 -0800
 Tasks: finished 'functions.js'
 
-Start: Thurs, 22 April 2015 12:45:00 -0800
-End: Thurs, 22 April 2015 13:03:00 -0800
+Start: Thurs, 23 April 2015 12:45:00 -0800
+End: Thurs, 23 April 2015 13:03:00 -0800
 Tasks: finished 'variables.js'
 
-Start: Thurs, 22 April 2015 18:34:00 -0800
-End: Thurs, 22 April 2015 19:45:00 -0800
+Start: Thurs, 23 April 2015 18:34:00 -0800
+End: Thurs, 23 April 2015 19:45:00 -0800
 Tasks: Wrote most of 'objects.js' 
 
-Start: Fri, 23 April 2015 14:00:00 -0800
-End: Fri, 23 April 2015 14:49:00 -0800
+Start: Fri, 24 April 2015 14:00:00 -0800
+End: Fri, 24 April 2015 14:49:00 -0800
 Tasks: Finished 'objects.js' and assignment 3 part 1
 
 Start: Fri, 23 April 2015 15:30:00 -0800
 End: Fri, 23 April 2015 16:50:00 -0800
 Tasks: Worked on setting up the GET forms in gists.html
+
+Start: Sat, 25 April 2015 15:30:00 -0800
+End: Sun, 26 April 2015 02:45:00 -0800
+Tasks: Wrote 'getGists.js'
+
+Start: Sun, 26 April 2015 11:30:00 -0800
+End: Sun, 26 April 2015 02:30:00 -0800
+Tasks: Worked on 'addFavorites' function 
+
+Start: Sun, 26 April 2015 17:30:00 -0800
+End: Sun, 26 April 2015 21:45:00 -0800
+Tasks: Attempted to fix favorites functionality, committed all files.
+
