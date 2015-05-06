@@ -1,0 +1,4 @@
+Start: Mon, 4 May 2015 15:00:00 -0800
+End: Mon, 4 May 2015 16:20:00 -0800
+Tasks: Watched all week 6 lectures on MySQL
+
